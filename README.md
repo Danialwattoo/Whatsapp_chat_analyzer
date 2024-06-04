@@ -2,8 +2,10 @@
 This is a Python-based WhatsApp chat analyzer that provides insights and statistics about a WhatsApp chat history. It is hosted on Streamlit, a web application framework for creating interactive data visualizations.
 
 ## Images
-![ss-1](https://github.com/ikunjshah/whatsapp-chat-analyzer/assets/74229403/e27e1acc-7b77-4850-97e6-a3e77f46c64b)
-![ss-2](https://github.com/ikunjshah/whatsapp-chat-analyzer/assets/74229403/26841aaa-ac8a-4e36-be37-b299ab91a3aa)
+![ss-1](![Screenshot (18)](https://github.com/Danialwattoo/Whatsapp_chat_analyzer_NLP/assets/153742416/ec6e3a2e-fc0b-41a2-9035-48012352c527)
+
+![ss-2](![Screenshot (19)](https://github.com/Danialwattoo/Whatsapp_chat_analyzer_NLP/assets/153742416/4d9d3afb-9015-4e2c-bdf0-6e26d4058b38)
+
 
 ## Features
 <ul>
@@ -25,8 +27,6 @@ Make sure you have the following software installed:
  <li>NLTK</li>
  </ul>
 
-## License
-This project is licensed under the MIT License.
 
 ## Disclaimer
 Please note that this chat analyzer only works with WhatsApp chat exports in plain text format. The formatting and structure of other chat exports may not be compatible.

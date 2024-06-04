@@ -2,9 +2,9 @@
 This is a Python-based WhatsApp chat analyzer that provides insights and statistics about a WhatsApp chat history. It is hosted on Streamlit, a web application framework for creating interactive data visualizations.
 
 ## Images
-![ss-1](![Screenshot (18)](https://github.com/Danialwattoo/Whatsapp_chat_analyzer_NLP/assets/153742416/ec6e3a2e-fc0b-41a2-9035-48012352c527)
+![Screenshot (18)](https://github.com/Danialwattoo/Whatsapp_chat_analyzer_NLP/assets/153742416/ec6e3a2e-fc0b-41a2-9035-48012352c527)
 
-![ss-2](![Screenshot (19)](https://github.com/Danialwattoo/Whatsapp_chat_analyzer_NLP/assets/153742416/4d9d3afb-9015-4e2c-bdf0-6e26d4058b38)
+![Screenshot (19)](https://github.com/Danialwattoo/Whatsapp_chat_analyzer_NLP/assets/153742416/4d9d3afb-9015-4e2c-bdf0-6e26d4058b38)
 
 
 ## Features
